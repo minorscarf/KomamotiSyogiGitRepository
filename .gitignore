@@ -47,6 +47,7 @@ ExportedObj/
 *.opendb
 *.VC.db
 
+<<<<<<< HEAD
 Assets/Photon/PhotonNetworking-Documentation.pdf
 Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Textures/Robot_Normal.png
 Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Textures/Robot_Color.png
@@ -59,6 +60,8 @@ Library/
 Temp/
 
 
+=======
+>>>>>>> 70ae735aa39f8330fda50c3e62f05477604a7f85
 # Unity3D generated meta files
 *.pidb.meta
 *.pdb.meta
